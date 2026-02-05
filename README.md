@@ -8,3 +8,4 @@ This is one of the master's project of Xianglong Bai.
 5. [How to Train the GNN Models](How-to-Train-the-GNN-Models)
 6. [How to Run the ABC Models](How-to-Run-the-ABC-Models)
 7. [Comments for All Scripts and Data Files](Comments-for-All-Scripts-and-Data-Files)
+8. [More Information about Thesis and Defense](More-Information-about-Thesis-and-Defense)
