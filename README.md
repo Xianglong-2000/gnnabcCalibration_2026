@@ -1,6 +1,8 @@
 # waterloo_project01_2026
 This is one of the master's project of Xianglong Bai.
 
+Previous students who worked on the relevant projects to this one: Dhruva Abhijit Rajwade, Atiyeh Ahmadi, Aaron Yip, Sushma Dhamodharan, Zaheer Mohideen
+
 1. [How to Setup UW Server and Install Required Packages](How-to-Setup-UW-Server-and-Install-Required-Packages)
 2. [How to Run Simulations](How-to-Run-Simulations)
 3. [How to Process Simulation Outputs](How-to-Process-Simulation-Outputs)
