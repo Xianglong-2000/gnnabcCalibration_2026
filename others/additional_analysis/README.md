@@ -17,4 +17,4 @@ This [additional_analysis](https://github.com/Xianglong-2000/gnnabcCalibration_2
 
 [gnn_model_prediction_performance_and_prediction_check](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/gnn_model_prediction_performance_and_prediction_check.ipynb) was used to check the prediction range and distributions using the trained gnn model. We used to have the constant predictions issue, so this analysis is to check if there's still a constant prediction issue. (updated on 2026/03/10)
 
-[parameter_value_selections](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/parameter_value_selections.ipynb) was used to select the parameter gamma and alpha values to generate simulated data for training the gnn models.
+[parameter_value_selections](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/parameter_value_selections.ipynb) was used to select the parameter gamma and alpha values to generate simulated data for training the gnn models. (updated on 2026/03/10)
