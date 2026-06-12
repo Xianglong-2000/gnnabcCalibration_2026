@@ -6,7 +6,7 @@ This [additional_analysis](https://github.com/Xianglong-2000/gnnabcCalibration_2
 
 
 
-
+[max_cell_num_check](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/max_cell_num_check.ipynb) was used to check if how the number of max cell is distributed in the experimental data. We used to set the max cell number as a constant 140 in the simulation module, but realized that it is uniformly distributed from 140 to 225 in the experimental data. To match the simulation module setup to the experimental behaviors, we changed it to a uniform distribution after this analysis.
 
 [check_empty_features_after_fillna](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/check_empty_features_after_fillna.ipynb) was used to check empty features in the simulated data after the filling-in preprocessing. (updated on 2026/03/10)
 
