@@ -2,6 +2,10 @@ This [additional_analysis](https://github.com/Xianglong-2000/gnnabcCalibration_2
 
 [growth_sim_simple_experiment](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/growth_sim_simple_experiment.ipynb) was used to check the basic growth behaviors in our simulation modules. From the previous observations, we realized all simulated samples are growing a bit faster than the experimental samples, so we used this notebook to figure out the reasons. We eventually found that the targetVol parameter values don't match their associated startVol values, so part of the divisions would appear a bit earlier than they should. (updated on 2026/06/11)
 
+[gnn_regression_prediction_on_expdata](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/gnn_regression_prediction_on_expdata.ipynb) was used to get the gnn predictions on experimental data. The gnn model was trained using the simulated data, and then was applied to predict on the experimental data. Note that the predictions are the predicted parameter gamma and alpha on the experimental data.
+
+
+
 
 
 [check_empty_features_after_fillna](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/check_empty_features_after_fillna.ipynb) was used to check empty features in the simulated data after the filling-in preprocessing. (updated on 2026/03/10)
