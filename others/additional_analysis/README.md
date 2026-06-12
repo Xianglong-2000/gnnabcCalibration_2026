@@ -4,4 +4,6 @@ This [additional_analysis](https://github.com/Xianglong-2000/gnnabcCalibration_2
 
 
 
+[check_empty_features_after_fillna](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/check_empty_features_after_fillna.ipynb) was used to check empty features in the simulated data after the filling-in preprocessing. (updated on 2026/03/10)
+
 [check_sim_param_dist](https://github.com/Xianglong-2000/gnnabcCalibration_2026/blob/main/others/additional_analysis/check_sim_param_dist.ipynb) was used to check the observable parameter distributions in our simulation module setup. We compared the simulated distributions to the experimental distributions, and see if there's any discrepancy. We eventually realized all observable parameter distribution setup in our simulation module should be okay. (updated on 2026/03/10)
